@@ -2,4 +2,4 @@
 
 Visit AtlantRides.org
 
-You the Issues tab above to provide input
+Use the Issues tab above to provide input
