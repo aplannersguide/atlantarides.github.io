@@ -1,4 +1,6 @@
-## AN ORDINANCE BY COUNCILMEMBERS MICHAEL JULIAN BOND, JENNIFER N. IDE, DUSTIN HILLIS, MATT WESTMORELAND, AND ANDRE DICKENS TO AMEND CHAPTER 150 TRAFFIC AND VEHICLES OF THE ATLANTA CITY CODE OF ORDINANCES TO CREATE ARTICLE X "SHAREABLE DOCKLESS MOBILITY DEVICES" TO ESTABLISH REGULATIONS RELATED TO SHAREABLE MOBILITY DEVICES; AND FOR OTHER PURPOSES.
+Ordinance-18-O-1322-Shareable-Dockless-Mobility-Devices
+
+**AN ORDINANCE BY COUNCILMEMBERS MICHAEL JULIAN BOND, JENNIFER N. IDE, DUSTIN HILLIS, MATT WESTMORELAND, AND ANDRE DICKENS TO AMEND CHAPTER 150 TRAFFIC AND VEHICLES OF THE ATLANTA CITY CODE OF ORDINANCES TO CREATE ARTICLE X "SHAREABLE DOCKLESS MOBILITY DEVICES" TO ESTABLISH REGULATIONS RELATED TO SHAREABLE MOBILITY DEVICES; AND FOR OTHER PURPOSES.**
 
 **WHEREAS**, technology companies have developed dockless rideshare technology for bicycles and scooters which allow for shareable mobility devices to be placed throughout the City of Atlanta ("City") without being locked to a bike rack or other infrastructure; and
 
@@ -21,7 +23,8 @@
 **Sec. 150-400 Definitions**
 
 As used in this article, unless specifically stated otherwise, the following terms shall mean and include:
-  a) Shareable dockless mobility device systems: a system operated by private entities that provides the general public with mobility devices that can be rented on a short-term basis with no docking stations.
+
+  a) *Shareable dockless mobility device systems:* a system operated by private entities that provides the general public with mobility devices that can be rented on a short-term basis with no docking stations.
 
   b) *Dockless mobility device system operator ("Operator"):* a private entity that operates a shareable dockless mobility device system
 
