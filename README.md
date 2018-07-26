@@ -1,5 +1,5 @@
 # Atlanta Rides
 
-Visit [AtlantRides.org](http://AtlantRides.org)
+Visit [AtlantaRides.org](http://AtlantaRides.org)
 
 Use the Issues tab above to provide input
